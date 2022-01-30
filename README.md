@@ -1,1 +1,1 @@
-![landing page](img.png)
+![landing page](img.jpg)
